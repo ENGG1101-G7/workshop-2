@@ -1,4 +1,5 @@
 # workshop-2
 This is a test repo.
+## My goal
 
-[insert modifications]
+I want to use GitHub for my engineering projects.
